@@ -5,7 +5,7 @@ A responsive and visually appealing website for **Mega Star Arts Classes**, desi
 
 ## 🌐 Live Preview
 
-[Add your GitHub Pages link here once deployed]
+[https://dpesh02.github.io/Mega-Star-Arts-Classes/]
 
 ---
 
@@ -27,29 +27,10 @@ A responsive and visually appealing website for **Mega Star Arts Classes**, desi
 
 ---
 
-## 🔧 How to Use
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/mega-star-arts-classes.git
-   ```
-2. Open `index.html` in a browser.
-3. To deploy:
-   - Upload to GitHub and enable GitHub Pages from `Settings > Pages`.
-
----
-
-## 📦 Dependencies
-
-- [Typed.js](https://github.com/mattboldt/typed.js)
-- Font Awesome Icons CDN
-
----
-
 ## 🙏 Credits
 
 Founder: **Mr. Nitesh Kumar Gupta**  
-Design & Development by: [Your Name]
+Design & Development by: [Dipesh shah]
 
 ---
 
